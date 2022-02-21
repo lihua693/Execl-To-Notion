@@ -1,0 +1,115 @@
+{
+  "source": "./source",
+  "finish": "./finish",
+  "token": "67dd867dfadd829194bdd088a1e6132d454da6dcb813761bab95a0dd718aeef10e7fdbded74bf4eeb80c7830782ef22faa29a7eca8d801cd7c11e66708dc5f4bc74301c4671552ebcf536f9bc49e",
+  "url": "https://www.notion.so/test-db3d6b829d91494e9a04fd9964ade210",
+  "floor": ["asdafa","asd","kmos 2"],
+  "primeKey": "订单编号",
+  "info": [
+    {
+      "Execl": "订单编号",
+      "Notion": "订单编号",
+      "Type": "str"
+    },
+    {
+      "Execl": "订单类型",
+      "Notion": "订单类型",
+      "Type": "select"
+    },
+    {
+      "Execl": "课程分类",
+      "Notion": "课程分类",
+      "Type": "select"
+    },
+    {
+      "Execl": "成单人",
+      "Notion": "成单人",
+      "Type": "str"
+    },
+    {
+      "Execl": "微信头像",
+      "Notion": "微信头像",
+      "Type": "str"
+    },
+    {
+      "Execl": "微信昵称",
+      "Notion": "微信昵称",
+      "Type": "str"
+    },
+    {
+      "Execl": "手机号",
+      "Notion": "手机号",
+      "Type": "str"
+    },
+    {
+      "Execl": "上课学员",
+      "Notion": "上课学员",
+      "Type": "str"
+    },
+    {
+      "Execl": "所属销售",
+      "Notion": "所属销售",
+      "Type": "str"
+    },
+    {
+      "Execl": "课程id",
+      "Notion": "课程id",
+      "Type": "int"
+    },
+    {
+      "Execl": "课程名称",
+      "Notion": "课程名称",
+      "Type": "str"
+    },
+    {
+      "Execl": "班次id",
+      "Notion": "班次id",
+      "Type": "int"
+    },
+    {
+      "Execl": "uid",
+      "Notion": "uid",
+      "Type": "int"
+    },
+    {
+      "Execl": "创建时间",
+      "Notion": "创建时间",
+      "Type": "date"
+    },
+    {
+      "Execl": "支付时间",
+      "Notion": "支付时间",
+      "Type": "date"
+    },
+    {
+      "Execl": "课程原价",
+      "Notion": "课程原价",
+      "Type": "int"
+    },
+    {
+      "Execl": "优惠金额",
+      "Notion": "优惠金额",
+      "Type": "int"
+    },
+    {
+      "Execl": "会员权益减免",
+      "Notion": "会员权益减免",
+      "Type": "int"
+    },
+    {
+      "Execl": "应付金额",
+      "Notion": "应付金额",
+      "Type": "int"
+    },
+    {
+      "Execl": "已付金额",
+      "Notion": "已付金额",
+      "Type": "int"
+    },
+    {
+      "Execl": "订单状态",
+      "Notion": "订单状态",
+      "Type": "str"
+    }
+  ]
+}
